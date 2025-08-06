@@ -5,6 +5,7 @@
 Empresas de pequeno e médio porte frequentemente enfrentam dificuldades em encontrar profissionais qualificados para serviços temporários, enquanto milhares de autônomos e freelancers buscam oportunidades flexíveis e com remuneração justa. As soluções existentes no mercado nem sempre oferecem segurança, agilidade ou um ambiente justo para ambas as partes.
 
 2- Solução
+
 Plataforma digital (web e app) que conecta freelancers (via CPF) a empresas (via CNPJ) para realização de serviços pontuais, com:
 * Contratos digitais personalizados.
 * Sistema de reputação bilateral.
